@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
+
 # мои данные
 tablets_compact = [
     {
